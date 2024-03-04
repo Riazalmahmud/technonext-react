@@ -1,0 +1,18 @@
+
+
+.bg-footer{
+    background-color: #FFC247;
+    width: 370px;
+    border-radius: 5%;
+    margin-top: 10px;
+}
+.bg-footer-img{
+    background-image: url("../../assets/certo-dark-yellow.svg.png");
+    background-repeat: no-repeat;
+ justify-content: center;
+ align-items: center;
+background-size: contain;
+
+  
+
+}

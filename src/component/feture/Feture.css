@@ -1,0 +1,11 @@
+.bg-select{
+    background-image: url("../../assets/section2.png");
+    background-repeat: no-repeat;
+    background-size: cover !important;
+    height: 650px !important;
+    display: flex;
+    justify-content: end;
+    align-items: center; /* Vertically center */
+ 
+  
+}
